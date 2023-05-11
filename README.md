@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+https://netflix-clone-8b369.web.app/ to play around and check out the final result
 npm i axios works as postman for requests from tmdb
 npm i react-youtube to add trailers from youtube to the poster you select
 npm i movie-trailer
