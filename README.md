@@ -3,7 +3,6 @@
 npm i axios works as postman for requests from tmdb
 npm i react-youtube to add trailers from youtube to the poster you select
 npm i movie-trailer
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
